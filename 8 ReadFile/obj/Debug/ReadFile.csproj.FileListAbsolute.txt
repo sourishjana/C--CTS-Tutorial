@@ -1,0 +1,7 @@
+F:\Documents\CTS pre joining studies\1 C# programming\ReadFile\bin\Debug\ReadFile.exe.config
+F:\Documents\CTS pre joining studies\1 C# programming\ReadFile\bin\Debug\ReadFile.exe
+F:\Documents\CTS pre joining studies\1 C# programming\ReadFile\bin\Debug\ReadFile.pdb
+F:\Documents\CTS pre joining studies\1 C# programming\ReadFile\obj\Debug\ReadFile.csproj.AssemblyReference.cache
+F:\Documents\CTS pre joining studies\1 C# programming\ReadFile\obj\Debug\ReadFile.csproj.CoreCompileInputs.cache
+F:\Documents\CTS pre joining studies\1 C# programming\ReadFile\obj\Debug\ReadFile.exe
+F:\Documents\CTS pre joining studies\1 C# programming\ReadFile\obj\Debug\ReadFile.pdb

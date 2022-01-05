@@ -1,0 +1,14 @@
+F:\Documents\CTS pre joining studies\1 C# programming\Function and methos\bin\Debug\netcoreapp3.1\Function and methos.exe
+F:\Documents\CTS pre joining studies\1 C# programming\Function and methos\bin\Debug\netcoreapp3.1\Function and methos.deps.json
+F:\Documents\CTS pre joining studies\1 C# programming\Function and methos\bin\Debug\netcoreapp3.1\Function and methos.runtimeconfig.json
+F:\Documents\CTS pre joining studies\1 C# programming\Function and methos\bin\Debug\netcoreapp3.1\Function and methos.runtimeconfig.dev.json
+F:\Documents\CTS pre joining studies\1 C# programming\Function and methos\bin\Debug\netcoreapp3.1\Function and methos.dll
+F:\Documents\CTS pre joining studies\1 C# programming\Function and methos\bin\Debug\netcoreapp3.1\Function and methos.pdb
+F:\Documents\CTS pre joining studies\1 C# programming\Function and methos\obj\Debug\netcoreapp3.1\Function and methos.csproj.AssemblyReference.cache
+F:\Documents\CTS pre joining studies\1 C# programming\Function and methos\obj\Debug\netcoreapp3.1\Function and methos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\CTS pre joining studies\1 C# programming\Function and methos\obj\Debug\netcoreapp3.1\Function and methos.AssemblyInfoInputs.cache
+F:\Documents\CTS pre joining studies\1 C# programming\Function and methos\obj\Debug\netcoreapp3.1\Function and methos.AssemblyInfo.cs
+F:\Documents\CTS pre joining studies\1 C# programming\Function and methos\obj\Debug\netcoreapp3.1\Function and methos.csproj.CoreCompileInputs.cache
+F:\Documents\CTS pre joining studies\1 C# programming\Function and methos\obj\Debug\netcoreapp3.1\Function and methos.dll
+F:\Documents\CTS pre joining studies\1 C# programming\Function and methos\obj\Debug\netcoreapp3.1\Function and methos.pdb
+F:\Documents\CTS pre joining studies\1 C# programming\Function and methos\obj\Debug\netcoreapp3.1\Function and methos.genruntimeconfig.cache

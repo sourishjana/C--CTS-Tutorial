@@ -1,0 +1,14 @@
+F:\Documents\CTS pre joining studies\1 C# programming\7 Inheritance and more about OOP\bin\Debug\netcoreapp3.1\7 Inheritance and more about OOP.exe
+F:\Documents\CTS pre joining studies\1 C# programming\7 Inheritance and more about OOP\bin\Debug\netcoreapp3.1\7 Inheritance and more about OOP.deps.json
+F:\Documents\CTS pre joining studies\1 C# programming\7 Inheritance and more about OOP\bin\Debug\netcoreapp3.1\7 Inheritance and more about OOP.runtimeconfig.json
+F:\Documents\CTS pre joining studies\1 C# programming\7 Inheritance and more about OOP\bin\Debug\netcoreapp3.1\7 Inheritance and more about OOP.runtimeconfig.dev.json
+F:\Documents\CTS pre joining studies\1 C# programming\7 Inheritance and more about OOP\bin\Debug\netcoreapp3.1\7 Inheritance and more about OOP.dll
+F:\Documents\CTS pre joining studies\1 C# programming\7 Inheritance and more about OOP\bin\Debug\netcoreapp3.1\7 Inheritance and more about OOP.pdb
+F:\Documents\CTS pre joining studies\1 C# programming\7 Inheritance and more about OOP\obj\Debug\netcoreapp3.1\7 Inheritance and more about OOP.csproj.AssemblyReference.cache
+F:\Documents\CTS pre joining studies\1 C# programming\7 Inheritance and more about OOP\obj\Debug\netcoreapp3.1\7 Inheritance and more about OOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\CTS pre joining studies\1 C# programming\7 Inheritance and more about OOP\obj\Debug\netcoreapp3.1\7 Inheritance and more about OOP.AssemblyInfoInputs.cache
+F:\Documents\CTS pre joining studies\1 C# programming\7 Inheritance and more about OOP\obj\Debug\netcoreapp3.1\7 Inheritance and more about OOP.AssemblyInfo.cs
+F:\Documents\CTS pre joining studies\1 C# programming\7 Inheritance and more about OOP\obj\Debug\netcoreapp3.1\7 Inheritance and more about OOP.csproj.CoreCompileInputs.cache
+F:\Documents\CTS pre joining studies\1 C# programming\7 Inheritance and more about OOP\obj\Debug\netcoreapp3.1\7 Inheritance and more about OOP.dll
+F:\Documents\CTS pre joining studies\1 C# programming\7 Inheritance and more about OOP\obj\Debug\netcoreapp3.1\7 Inheritance and more about OOP.pdb
+F:\Documents\CTS pre joining studies\1 C# programming\7 Inheritance and more about OOP\obj\Debug\netcoreapp3.1\7 Inheritance and more about OOP.genruntimeconfig.cache

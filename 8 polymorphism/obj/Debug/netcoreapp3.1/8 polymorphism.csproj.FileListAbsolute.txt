@@ -1,0 +1,14 @@
+F:\Documents\CTS pre joining studies\1 C# programming\8 polymorphism\bin\Debug\netcoreapp3.1\8 polymorphism.exe
+F:\Documents\CTS pre joining studies\1 C# programming\8 polymorphism\bin\Debug\netcoreapp3.1\8 polymorphism.deps.json
+F:\Documents\CTS pre joining studies\1 C# programming\8 polymorphism\bin\Debug\netcoreapp3.1\8 polymorphism.runtimeconfig.json
+F:\Documents\CTS pre joining studies\1 C# programming\8 polymorphism\bin\Debug\netcoreapp3.1\8 polymorphism.runtimeconfig.dev.json
+F:\Documents\CTS pre joining studies\1 C# programming\8 polymorphism\bin\Debug\netcoreapp3.1\8 polymorphism.dll
+F:\Documents\CTS pre joining studies\1 C# programming\8 polymorphism\bin\Debug\netcoreapp3.1\8 polymorphism.pdb
+F:\Documents\CTS pre joining studies\1 C# programming\8 polymorphism\obj\Debug\netcoreapp3.1\8 polymorphism.csproj.AssemblyReference.cache
+F:\Documents\CTS pre joining studies\1 C# programming\8 polymorphism\obj\Debug\netcoreapp3.1\8 polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\CTS pre joining studies\1 C# programming\8 polymorphism\obj\Debug\netcoreapp3.1\8 polymorphism.AssemblyInfoInputs.cache
+F:\Documents\CTS pre joining studies\1 C# programming\8 polymorphism\obj\Debug\netcoreapp3.1\8 polymorphism.AssemblyInfo.cs
+F:\Documents\CTS pre joining studies\1 C# programming\8 polymorphism\obj\Debug\netcoreapp3.1\8 polymorphism.csproj.CoreCompileInputs.cache
+F:\Documents\CTS pre joining studies\1 C# programming\8 polymorphism\obj\Debug\netcoreapp3.1\8 polymorphism.dll
+F:\Documents\CTS pre joining studies\1 C# programming\8 polymorphism\obj\Debug\netcoreapp3.1\8 polymorphism.pdb
+F:\Documents\CTS pre joining studies\1 C# programming\8 polymorphism\obj\Debug\netcoreapp3.1\8 polymorphism.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\Documents\CTS pre joining studies\1 C# programming\5 Collections\bin\Debug\netcoreapp3.1\5 Collections.exe
+F:\Documents\CTS pre joining studies\1 C# programming\5 Collections\bin\Debug\netcoreapp3.1\5 Collections.deps.json
+F:\Documents\CTS pre joining studies\1 C# programming\5 Collections\bin\Debug\netcoreapp3.1\5 Collections.runtimeconfig.json
+F:\Documents\CTS pre joining studies\1 C# programming\5 Collections\bin\Debug\netcoreapp3.1\5 Collections.runtimeconfig.dev.json
+F:\Documents\CTS pre joining studies\1 C# programming\5 Collections\bin\Debug\netcoreapp3.1\5 Collections.dll
+F:\Documents\CTS pre joining studies\1 C# programming\5 Collections\bin\Debug\netcoreapp3.1\5 Collections.pdb
+F:\Documents\CTS pre joining studies\1 C# programming\5 Collections\obj\Debug\netcoreapp3.1\5 Collections.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\CTS pre joining studies\1 C# programming\5 Collections\obj\Debug\netcoreapp3.1\5 Collections.AssemblyInfoInputs.cache
+F:\Documents\CTS pre joining studies\1 C# programming\5 Collections\obj\Debug\netcoreapp3.1\5 Collections.AssemblyInfo.cs
+F:\Documents\CTS pre joining studies\1 C# programming\5 Collections\obj\Debug\netcoreapp3.1\5 Collections.csproj.CoreCompileInputs.cache
+F:\Documents\CTS pre joining studies\1 C# programming\5 Collections\obj\Debug\netcoreapp3.1\5 Collections.dll
+F:\Documents\CTS pre joining studies\1 C# programming\5 Collections\obj\Debug\netcoreapp3.1\5 Collections.pdb
+F:\Documents\CTS pre joining studies\1 C# programming\5 Collections\obj\Debug\netcoreapp3.1\5 Collections.genruntimeconfig.cache
+F:\Documents\CTS pre joining studies\1 C# programming\5 Collections\obj\Debug\netcoreapp3.1\5 Collections.csproj.AssemblyReference.cache

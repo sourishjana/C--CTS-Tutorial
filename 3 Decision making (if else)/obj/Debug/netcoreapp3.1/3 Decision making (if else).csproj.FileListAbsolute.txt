@@ -1,0 +1,13 @@
+F:\Documents\CTS pre joining studies\1 C# programming\3 Decision making (if else)\bin\Debug\netcoreapp3.1\3 Decision making (if else).exe
+F:\Documents\CTS pre joining studies\1 C# programming\3 Decision making (if else)\bin\Debug\netcoreapp3.1\3 Decision making (if else).deps.json
+F:\Documents\CTS pre joining studies\1 C# programming\3 Decision making (if else)\bin\Debug\netcoreapp3.1\3 Decision making (if else).runtimeconfig.json
+F:\Documents\CTS pre joining studies\1 C# programming\3 Decision making (if else)\bin\Debug\netcoreapp3.1\3 Decision making (if else).runtimeconfig.dev.json
+F:\Documents\CTS pre joining studies\1 C# programming\3 Decision making (if else)\bin\Debug\netcoreapp3.1\3 Decision making (if else).dll
+F:\Documents\CTS pre joining studies\1 C# programming\3 Decision making (if else)\bin\Debug\netcoreapp3.1\3 Decision making (if else).pdb
+F:\Documents\CTS pre joining studies\1 C# programming\3 Decision making (if else)\obj\Debug\netcoreapp3.1\3 Decision making (if else).GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\CTS pre joining studies\1 C# programming\3 Decision making (if else)\obj\Debug\netcoreapp3.1\3 Decision making (if else).AssemblyInfoInputs.cache
+F:\Documents\CTS pre joining studies\1 C# programming\3 Decision making (if else)\obj\Debug\netcoreapp3.1\3 Decision making (if else).AssemblyInfo.cs
+F:\Documents\CTS pre joining studies\1 C# programming\3 Decision making (if else)\obj\Debug\netcoreapp3.1\3 Decision making (if else).csproj.CoreCompileInputs.cache
+F:\Documents\CTS pre joining studies\1 C# programming\3 Decision making (if else)\obj\Debug\netcoreapp3.1\3 Decision making (if else).dll
+F:\Documents\CTS pre joining studies\1 C# programming\3 Decision making (if else)\obj\Debug\netcoreapp3.1\3 Decision making (if else).pdb
+F:\Documents\CTS pre joining studies\1 C# programming\3 Decision making (if else)\obj\Debug\netcoreapp3.1\3 Decision making (if else).genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Sourish\source\repos\Variables_and_datatypes\bin\Debug\netcoreapp3.1\Variables_and_datatypes.exe
+C:\Users\Sourish\source\repos\Variables_and_datatypes\bin\Debug\netcoreapp3.1\Variables_and_datatypes.deps.json
+C:\Users\Sourish\source\repos\Variables_and_datatypes\bin\Debug\netcoreapp3.1\Variables_and_datatypes.runtimeconfig.json
+C:\Users\Sourish\source\repos\Variables_and_datatypes\bin\Debug\netcoreapp3.1\Variables_and_datatypes.runtimeconfig.dev.json
+C:\Users\Sourish\source\repos\Variables_and_datatypes\bin\Debug\netcoreapp3.1\Variables_and_datatypes.dll
+C:\Users\Sourish\source\repos\Variables_and_datatypes\bin\Debug\netcoreapp3.1\Variables_and_datatypes.pdb
+C:\Users\Sourish\source\repos\Variables_and_datatypes\obj\Debug\netcoreapp3.1\Variables_and_datatypes.csproj.AssemblyReference.cache
+C:\Users\Sourish\source\repos\Variables_and_datatypes\obj\Debug\netcoreapp3.1\Variables_and_datatypes.AssemblyInfoInputs.cache
+C:\Users\Sourish\source\repos\Variables_and_datatypes\obj\Debug\netcoreapp3.1\Variables_and_datatypes.AssemblyInfo.cs
+C:\Users\Sourish\source\repos\Variables_and_datatypes\obj\Debug\netcoreapp3.1\Variables_and_datatypes.csproj.CoreCompileInputs.cache
+C:\Users\Sourish\source\repos\Variables_and_datatypes\obj\Debug\netcoreapp3.1\Variables_and_datatypes.dll
+C:\Users\Sourish\source\repos\Variables_and_datatypes\obj\Debug\netcoreapp3.1\Variables_and_datatypes.pdb
+C:\Users\Sourish\source\repos\Variables_and_datatypes\obj\Debug\netcoreapp3.1\Variables_and_datatypes.genruntimeconfig.cache
